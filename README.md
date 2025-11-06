@@ -1,5 +1,9 @@
 # Scoop bucket (custom)
 
+# Deprecation notice:
+
+The single manifest (rsgain.json) that I previously couldn't find in other buckets has been added to the Scoop Extras bucket. This repository now serves no purpose and is now deprecated.
+
 <!-- Uncomment the following line after replacing placeholders -->
 [![Tests](https://github.com/aisair/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/aisair/scoop-bucket/actions/workflows/ci.yml) [![Excavator](https://github.com/aisair/scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/aisair/scoop/actions/workflows/excavator.yml)
 
